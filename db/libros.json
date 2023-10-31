@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "titulo": "Cocina rico todos los dias",
+    "descripcion": "Libro sobre la cocina sudamericana",
+    "imagen": "sin imagen",
+    "genero": "gastronomia",
+    "precio": 85,
+    "stock": 4
+  },
+  {
+    "id": 2,
+    "titulo": "Kiako",
+    "descripcion": "Clave de cocina para comer sano",
+    "imagen": "sin imagen",
+    "genero": "gastronomia",
+    "precio": 76,
+    "stock": 6
+  },
+  {
+    "id": 3,
+    "titulo": "El Señor de los Anillos",
+    "descripcion": "Los Anillos de Poder fueron forjados en antiguos tiempos por los herreros Elfos",
+    "imagen": "sin imagen",
+    "genero": "ficcion",
+    "precio": 67,
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "titulo": "LeoTube",
+    "descripcion": "Los cómics más divertidos para aficionarse a la lectura",
+    "imagen": "sin imagen",
+    "genero": "infantiles",
+    "precio": 89,
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "titulo": "Peter Pan",
+    "descripcion": "Peter Pan, el niño que no quiere crecer",
+    "imagen": "sin imagen",
+    "genero": "infantiles",
+    "precio": 77,
+    "stock": 5
+  },
+  {
+    "id": 6,
+    "titulo": "Los Compas vs. Hackers",
+    "descripcion": "Los Compas viven una aventura llena de clones",
+    "imagen": "sin imagen",
+    "genero": "infantiles",
+    "precio": 79,
+    "stock": 6
+  },
+  {
+    "id": 7,
+    "titulo": "Torre del alba",
+    "descripcion": "La travesía a un imperio distante de sanadores mágicos",
+    "imagen": "sin imagen",
+    "genero": "ficcion",
+    "precio": 54,
+    "stock": 8
+  },
+  {
+    "id": 8,
+    "titulo": "Una luna sin miel",
+    "descripcion": "Comedia romántica entretenida y atrapante, Buen ritmo y mucho humor",
+    "imagen": "sin imagen",
+    "genero": "ficcion",
+    "precio": 49,
+    "stock": 9
+  },
+  {
+    "id": 9,
+    "titulo": "El viaje más largo",
+    "descripcion": "La historia de dos parejas cuyas historias de amor se cruzan de la manera más sorprendente",
+    "imagen": "sin imagen",
+    "genero": "ficcion",
+    "precio": 47,
+    "stock": 11
+  },
+  {
+    "id": 10,
+    "titulo": "Tragos y panes Los esenciales de Juliana",
+    "descripcion": "Ideas y recetas nuevas para hacer todos los días",
+    "imagen": "sin imagen",
+    "genero": "gastronomia",
+    "precio": 65,
+    "stock": 7
+  }
+]
